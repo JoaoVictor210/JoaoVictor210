@@ -8,7 +8,7 @@ Sou um desenvolvedor Android apaixonado com uma grande admiração pelo Kotlin. 
 - 🌱 Atualmente estou aprendendo Jetpack Compose avançado e explorando as últimas tendências em desenvolvimento Android.
 - 💬 Pergunte-me sobre desenvolvimento Android, Kotlin e qualquer assunto relacionado à tecnologia.
 - 👯 Estou buscando colaborar em projetos open-source relacionados ao Android.
-- ⚡ Curiosidade: Comecei a programar quando tinha [sua idade inicial] anos e me apaixonei por criar apps!
+- ⚡ Curiosidade: Comecei a programar quando tinha 16 anos e me apaixonei por criar apps!
 
 ## 🚀 Habilidades
 - **Linguagens:** Kotlin, Java
@@ -25,8 +25,6 @@ Sou um desenvolvedor Android apaixonado com uma grande admiração pelo Kotlin. 
 - **[Projeto 3](https://github.com/JoaoVictor210/projeto3)**: Breve descrição do projeto.
 
 ## 📫 Entre em Contato
-- LinkedIn: [Seu Perfil no LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- Twitter: [Seu Perfil no Twitter](https://twitter.com/seu-perfil)
-- Website/Blog Pessoal: [Seu Website](https://seusite.com)
+- Website/Blog Pessoal: [Seu Website]([https://seusite.com](https://www.youtube.com/channel/UCZg46QXDTrxOXX97QhtG5QA))
 
 Obrigado por visitar meu perfil! Vamos construir algo incrível juntos. 😄
